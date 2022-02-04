@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - MONGODB | FIREBASE
 - ORACLE | MYSQL | PSQL
 
-#### TOOLS :-
+#### DEVOPS TOOLS :-
 - GIT
 - DOCKER
