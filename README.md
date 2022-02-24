@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 #### FRONTEND DEVELOPMENT :-
 - HTML | CSS | JS
-- REACT | NEXTJS | GATSBY | REDUX
+- REACT | NEXTJS | GATSBY | REFINEJS | REDUX 
 - BOOTSTRAP | MATERIAL-UI
 
 #### BACKEND DEVELOPMENT :-
