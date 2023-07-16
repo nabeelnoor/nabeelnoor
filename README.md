@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - BOOTSTRAP | MATERIAL-UI
 
 #### BACKEND DEVELOPMENT :-
-- NODEJS | EXPRESS
+- NODEJS | EXPRESS | NESTJS
 - FLASK
 - GOLANG
 
