@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 #### BACKEND DEVELOPMENT :-
 - NODEJS | EXPRESS | NESTJS
 - FLASK
-- GOLANG
+- GOLANG | GIN
 
 #### BLOCKCHAIN :-
 - TRUFFLE
@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 - MONGODB | FIREBASE
 - ORACLE | MYSQL | PSQL
 
+#### CLOUD SERVICES :-
+- AWS
+- GCP
+
 #### DEVOPS TOOLS :-
 - GIT
 - DOCKER
+- KUBERNETES
